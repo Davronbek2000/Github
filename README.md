@@ -1,2 +1,2 @@
-# Github
+# MyProject
 My first github
